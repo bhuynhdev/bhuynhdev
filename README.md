@@ -1,10 +1,10 @@
-<div style="text-align:center">
+<div align="center">
     <img src="https://media.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif" alt="Coding GIF banner image" />
 </div>
 
-<h1 style="text-align:center"> Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="" height="25px"/> I'm Bao Huynh </h1>
+<h1 align="center"> Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="" height="25px"/> I'm Bao Huynh </h1>
 
-## About me 👋
+## About me 😀
 
 -   🔭 I’m currently deep diving into Full-stack Web Development 💻, especially with React
 -   🌱 I’m currently learning ...
