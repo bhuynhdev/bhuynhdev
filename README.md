@@ -10,10 +10,10 @@ I am a passionate software and web developer, and currently a Computer Science s
 -   🔭 I’m currently deep diving into **Full-stack Web Development** 💻, especially with React
 -   🌱 I’m currently learning Angular and Vue
 -   👯 I’m looking to collaborate with anyone in tech
--   💬 Ask me about my Samoyed Dog
+-   💬 Ask me about my Samoyed Dog 🐶
 -   😄 Pronouns: He/Him
 -   🤗 Hobbies: I love playing chess ♟️ and the guitar 🎸
--   📫 How to reach me: huynhlbg@mail.uc.edu, my [Twitter](https://twitter.com/bhuynhtweet), or my [LinkedIn](https://linkedin.com/in/baohuynhuc)
+-   📫 How to reach me: huynhlbg@mail.uc.edu, my [Twitter](https://twitter.com/bhuynhtweet), and my [LinkedIn](https://linkedin.com/in/baohuynhuc)
 
 ## 🔥 Streaks 🔥
 <div align="center">
