@@ -28,5 +28,5 @@ I am a passionate software and web developer, and currently a Computer Science s
 
 ## 📊 Most Used Languages 📊
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhuynhdev&hide=scss&theme=tokyonight" alt="Bao Huynh most used languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhuynhdev&hide=scss&theme=github_dark" alt="Bao Huynh most used languages" />
 </div>
