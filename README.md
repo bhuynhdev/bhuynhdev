@@ -23,10 +23,10 @@ I am a passionate software and web developer, and currently a Computer Science s
 
 ## 📈 Stats 📈
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=bhuynhdev&show_icons=true&theme=tokyonight" alt="Bao Huynh Github Stats card" />
+    <img src="https://github-readme-stats-bhuynh.vercel.app/api?username=bhuynhdev&show_icons=true&theme=tokyonight" alt="Bao Huynh Github Stats card" />
 </div>
 
 ## 📊 Most Used Languages 📊
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhuynhdev&hide=scss&theme=github_dark" alt="Bao Huynh most used languages" />
+    <img src="https://github-readme-stats-bhuynh.vercel.app/api/top-langs/?username=bhuynhdev&hide=scss&theme=github_dark" alt="Bao Huynh most used languages" />
 </div>
