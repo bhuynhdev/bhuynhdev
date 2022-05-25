@@ -15,6 +15,8 @@ I am a passionate software and web developer, and currently a Computer Science s
 -   🤗 Hobbies: I love playing chess ♟️ and the guitar 🎸
 -   📫 How to reach me: huynhlbg@mail.uc.edu, my [Twitter](https://twitter.com/bhuynhtweet), and my [LinkedIn](https://linkedin.com/in/baohuynhuc)
 
+## My skills ##
+
 ## 🔥 Streaks 🔥
 <div align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhuynhdev&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D" alt="Bao Huynh Github Streak card" />
