@@ -9,7 +9,7 @@ I am a passionate software and web developer, and currently a Computer Science s
 ## A little bit about me:
 -   🔭 I’m currently deep diving into **Full-stack Web Development** 💻, especially with React
 -   🌱 I’m currently learning Angular and Vue
--   👯 I’m looking to collaborate with anyone in tech
+-   🌐 I created my own website at: [bhuynh.me](https://bhuynh.me)
 -   💬 Ask me about my Samoyed Dog 🐶
 -   😄 Pronouns: He/Him
 -   🤗 Hobbies: I love playing chess ♟️ and the guitar 🎸
