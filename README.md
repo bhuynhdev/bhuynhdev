@@ -8,26 +8,26 @@ I am a passionate software and web developer, and currently a Computer Science s
 
 ## A little bit about me:
 
--   🔭 I’m currently deep diving into **Full-stack Web Development** 💻, especially with React
--   🌱 I’m currently learning Angular and Vue
--   🌐 I created my own website at: [bhuynh.me](https://bhuynh.me)
+-   🔭 I’m currently deep diving into **Full-stack Web Development** 💻, especially with React and Nextjs Server components
+-   🌱 Currently exploring (and quite in love) with Svelte
+-   🌐 I created my own website at: [bhuynh.dev](https://bhuynh.dev)
 -   💬 Ask me about my Samoyed Dog 🐶
 -   😄 Pronouns: He/Him
 -   🤗 Hobbies: I love playing chess ♟️ and the guitar 🎸
--   📫 How to reach me: huynhlbg@mail.uc.edu, my [Twitter](https://twitter.com/bhuynhtweet), and my [LinkedIn](https://linkedin.com/in/baohuynhuc)
+-   📫 How to reach me: huynhlbg@mail.uc.edu, my [Twitter](https://twitter.com/bhuynhtweet), and my [LinkedIn](https://linkedin.com/in/bhuynhuc)
 
 ## ⚙️ My Skills ⚙️
 
-<img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" title="Python"/>&nbsp;
 <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="Typescript" title="Typescript"/>&nbsp;
 <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript"/>&nbsp;
 <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Nodejs" title="Nodejs"/>&nbsp;
 <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" title="React"/>&nbsp;
+<img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Nextjs" title="Nextjs"/>&nbsp;
 <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" title="Angular"/>&nbsp;
+<img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" title="Express"/>&nbsp;
 <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" alt="Nestjs" title="Nestjs"/>&nbsp;
 <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" title="MongoDB"/>&nbsp;
-<img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Nextjs" title="Nextjs"/>&nbsp;
-<img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" title="Express"/>&nbsp;
+<img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" title="Python"/>&nbsp;
 <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" title="Bash"/>&nbsp;
 <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" title="Git"/>&nbsp;
 <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" title="Linux"/>&nbsp;
