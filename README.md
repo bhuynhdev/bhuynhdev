@@ -10,11 +10,11 @@ I am a passionate software and web developer, and currently a Computer Science s
 
 -   🔭 I’m currently deep diving into **Full-stack Web Development** 💻, especially with React and Nextjs Server components
 -   🌱 Currently exploring (and quite in love) with Svelte
--   🌐 I created my own website at: [bhuynh.dev](https://bhuynh.dev)
--   💬 Ask me about my Samoyed Dog 🐶
 -   😄 Pronouns: He/Him
--   🤗 Hobbies: I love playing chess ♟️ and the guitar 🎸
--   📫 How to reach me: huynhlbg@mail.uc.edu, my [Twitter](https://twitter.com/bhuynhtweet), and my [LinkedIn](https://linkedin.com/in/bhuynhuc)
+-   🌐 Visit my personal website at: [bhuynh.dev](https://bhuynh.dev)
+-   💬 Ask me about my Samoyed Dog 🐶
+-   🤗 Hobbies: I love watching anime 🎎, playing chess ♟️ and praciticing the guitar 🎸
+-   📫 How to reach me: bhuynhdev@gmail.com, my [Twitter](https://twitter.com/bhuynhdev), and my [LinkedIn](https://linkedin.com/in/bhuynhuc)
 
 ## ⚙️ My Skills ⚙️
 
