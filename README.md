@@ -4,33 +4,34 @@
 
 <h1 align="center"> Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="" height="25" width="25"/> I'm Bao Huynh </h1>
 
-I am a passionate software and web developer, and currently a Computer Science student at University of Cincinnati. I love to try all the newest web technologies, and my goal is to make the web a little bit more exciting every day.
+I am a passionate software and web developer, and currently a Backend Software Engineer. I love to try all the newest web technologies, as I strive make the web a little bit cooler every day.
 
 ## A little bit about me:
 
--   🔭 I’m currently deep diving into **Full-stack Web Development** 💻, especially with React and Nextjs Server components
--   🌱 Currently exploring (and quite in love) with Svelte
--   😄 Pronouns: He/Him
+-   🔭 I’m currently deep diving into **Full-stack Web Development** 💻, especially with Svelte/Solid and Signals
+-   🌱 Currently exploring (and quite in love) with SvelteKit
 -   🌐 Visit my personal website at: [bhuynh.dev](https://bhuynh.dev)
 -   💬 Ask me about my Samoyed Dog 🐶
 -   🤗 Hobbies: I love watching anime 🎎, playing chess ♟️ and praciticing the guitar 🎸
--   📫 How to reach me: bhuynhdev@gmail.com, my [Twitter](https://twitter.com/bhuynhdev), and my [LinkedIn](https://linkedin.com/in/bhuynhuc)
+-   📫 How to reach me: baoh.inbox@gmail.com, my [BlueSky](https://bsky.app/profile/bhuynhdev.bsky.social), and my [LinkedIn](https://linkedin.com/in/bhuynhuc)
 
 ## ⚙️ My Skills ⚙️
 
-<img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="Typescript" title="Typescript"/>&nbsp;
-<img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript"/>&nbsp;
-<img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Nodejs" title="Nodejs"/>&nbsp;
-<img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" title="React"/>&nbsp;
-<img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Nextjs" title="Nextjs"/>&nbsp;
-<img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" title="Angular"/>&nbsp;
-<img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" title="Express"/>&nbsp;
-<img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" alt="Nestjs" title="Nestjs"/>&nbsp;
-<img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" title="MongoDB"/>&nbsp;
-<img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" title="Python"/>&nbsp;
-<img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" title="Bash"/>&nbsp;
-<img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" title="Git"/>&nbsp;
-<img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" title="Linux"/>&nbsp;
+<img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="Typescript" title="Typescript"/>&nbsp;
+<img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript"/>&nbsp;
+<img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="Nodejs" title="Nodejs"/>&nbsp;
+<img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" title="React"/>&nbsp;
+<img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactrouter/reactrouter-original.svg" alt="React Router" title="React Router"/>&nbsp;
+<img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="Nextjs" title="Nextjs"/>&nbsp;
+<img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/svelte/svelte-original.svg" alt="Svelte" title="Svelte"/>&nbsp;
+<img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwindcss" title="Tailwindcss"/>&nbsp;
+<img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" alt="Express" title="Express"/>&nbsp;
+<img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" alt="Nestjs" title="Nestjs"/>&nbsp;
+<img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL"/>&nbsp;
+<img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" title="Python"/>&nbsp;
+<img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" alt="Bash" title="Bash"/>&nbsp;
+<img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" title="Git"/>&nbsp;
+<img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux" title="Linux"/>&nbsp;
 
 ## 🔥 Streaks 🔥
 
